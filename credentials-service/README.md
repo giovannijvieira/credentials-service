@@ -19,7 +19,7 @@ npm run dev
 
 /credentials
 
-[POST] - CRIA ACESSO AO BANCO DE DADOS WEBROPAY PARA ENVIO DE CONTRATOS 
+[POST] - CRIA ACESSO AO BANCO DE DADOS  PARA ENVIO DE CONTRATOS 
 request.body
 nome,cnpj,password
 
