@@ -1,17 +1,17 @@
-#credentials-service Real estate creation service
+# credentials-service Real estate creation service
 
-INSTALAÇÃO
+# INSTALAÇÃO
 yarn ou npm i
 
-criar .env
+# criar .env
 DATABASE_URL="postgresql://johndoe:randompassword@localhost:5432/mydb?schema=public"
 EXECUTAR O PROJETO
 yarn dev ou npm run dev
 
-Rotas
+# Rotas
 /credentials
 
 [POST] - CRIA ACESSO AO BANCO DE DADOS PARA ENVIO DE CONTRATOS request.body nome,cnpj,password
 
-COLLECTION
+# COLLECTION
 COLEÇÃO
